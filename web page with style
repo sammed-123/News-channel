@@ -1,0 +1,18 @@
+<html>
+	<head>
+		<title>Web Page With Style</title>
+		
+					<style type="text/css">
+					
+					.first{
+					width:200px;}
+						
+					</style>
+	
+	</head>
+	<body>
+	<div class="first" >
+			
+	</div>	
+	</body>
+</html>

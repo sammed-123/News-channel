@@ -1,0 +1,208 @@
+
+					#topbar{
+					width:1000px;
+					height:40px;
+					margin:0  auto;
+				
+					}
+					body{
+						margin:0;
+						padding:0;
+						font-family:ReithSans, Arial, Helvetica;
+						}
+					#logo{
+					margin:5px 15px;
+					width:90px;
+					float:left;
+					}
+					.topbar-section{
+					float:left;
+					border-left:1px #CCCCCC solid;
+					height:100%;
+					margin-right:10px;
+					}
+					#sign{
+					width:25px;
+					margin:8px;
+					float:left;
+				
+					}
+					#signtext{
+					font-weight:bold;
+					font-size:90%;
+					position:relative;
+					top:12px;}
+					
+					.topbar-menu{
+					font-weight:bold;
+					font-size:90%;
+					padding:13px 10px 13px 15px;
+					height:14px;
+					}
+					.topbar-menu:hover{
+					text-decoration:underline;
+					color:red;
+					}
+					
+					
+					#more{
+					width:10px;
+					margin-left:30px;
+					}
+					#search{
+					width:190px;
+					height:25px;
+					margin-top:10px;
+					margin-left:15px;
+					background-color:#E4E4E4;
+					border:none;
+					font-weight:bold;
+					float:left;
+					}
+					#searchimg{
+					width:28px;
+					height:25px;
+					margin:10px 0px 5px 0px;
+					}
+					.red{
+					margin:0 auto;
+					width:1500px;
+					height:60px;
+					padding:0;
+					
+					background-color:#BB1919;
+					}
+					#local{
+					color:white;
+					float:right;
+					padding:20px 20px 20px 20px;
+				
+					}
+					#head{
+					padding-top:10px;
+					padding-left:10px;
+					
+					margin:0 -380px;
+					font-size:42px;
+					float:left;
+					color:white;
+					}
+					
+					#menubar{
+					margin:0 auto;
+					width:1500px;
+					height:40px;
+					background-color:#A91717;
+				
+					
+					
+					}
+					#menubar2 a{
+					color:white;
+					font-size:13px;
+					padding:0 10px;
+					text-decoration:none;
+					border-right:1px solid #CCCCCC;
+					position:relative;
+					top:9px;}
+				
+					
+					.noborder{
+					border:none !important;
+					}
+					#more2{
+					width:20px;
+					margin:0px;
+					position:relative;
+					top:10px;
+					left:-8px;
+					}
+					#pagecontainer{
+					width:1500px;
+					margin:0 auto;
+					}
+					h2  {
+					font-weight:normal;
+					margin:35px  0;
+					font-size:25px;
+					border-bottom:2px solid #BB1919;
+					width:130px;
+					}
+					#mainarticle{
+					margin:0 auto;
+					width:1000px;
+					}
+					h3{
+					font-size:40px;
+					}
+					#sidearticle{
+					width:300px;
+					height:400px;
+					float:right;
+					background-color:#EDEDED;
+					padding:0;
+					color:#565045;
+					}
+					
+					#hawai{
+					width:600px;
+					height:350px;
+					}
+					.topstories{
+					
+					font-size:24px;
+					font-weight:none;
+					padding:0;
+					margin:15px;
+					}
+					.headline{
+					font-weight:bold;
+					font-size20px;
+					padding:0;
+					margin-left:15px;}
+					#subline{
+					margin-left:15px;
+					font-size:97%;
+					}
+					.time{
+					width:23px;
+					margin-left:10px;
+					
+					
+					}
+					.timer{
+					font-size:80%;
+					margin-bottom:20px;
+				
+					}
+					#downarticle{
+					
+					width:570px;
+					float:left;
+					
+					}
+					#downarticle2{
+					font-size:16px;
+					font-weight:bold;
+					}
+					#belowarticle{
+					width:300px;
+					height:900px;
+					background-color:#EDEDED;
+					float:right;
+					padding:0;
+					margin-top:20px;
+					}
+					.sideimage{
+					margin-left:15px;
+					}
+					.headline:hover{
+					color:#1167A8;
+					}
+					#video{
+					width:650px;
+					height:450px;
+					
+					
+					
+		
